@@ -7,3 +7,5 @@ El programa está hecho en jupyter, se deben tener los dos dataset del repostori
 
 1. https://drive.google.com/open?id=1VFsffy5pB-aQPuPH8K83HfneJJKB9GGY
 2. https://drive.google.com/open?id=1gn4PBDc2255f5-Qm9PLdmpbdamRLFpTR
+
+Una vez descargados todos los datasets, solo se debe correr el código y se podrán replicar los resultados obtenidos en el informe.
